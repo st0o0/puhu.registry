@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "puhu.btop",
+      "repository": "https://github.com/st0o0/puhu.btop"
+    }
+  ]
+}
